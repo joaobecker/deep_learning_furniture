@@ -24,7 +24,7 @@ By leveraging transfer learning from VGG-16 model as feature extractor to our mo
 
 ![Screenshot of Brave Browser (2019-03-15, 9-52-13 AM)](https://user-images.githubusercontent.com/31840058/54448873-00ca1700-470a-11e9-9b38-898ed2172f7e.png)
 
-![Screenshot of Brave Browser (2019-03-15, 10-12-34 AM)](https://user-images.githubusercontent.com/31840058/54449265-ecd2e500-470a-11e9-858a-b4f6cbec7d6c.png)
+![Screenshot of Brave Browser (2019-03-15, 10-20-57 AM)](https://user-images.githubusercontent.com/31840058/54449748-13dde680-470c-11e9-8ed5-788dc1a749a4.png)
 
 ## Next steps
 
