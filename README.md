@@ -21,6 +21,9 @@ The project will be using the data available from the Kaggle competition - [iMat
 
 By leveraging transfer learning from VGG-16 model as feature extractor to our model, we achieved an impressive result of 93.6% accuracy and 85% validation accuracy, even though we only had a total of 3’699 images available in our dataset. Thus, helping online stores automate product recognition with high accuracy and making them more efficient. 
 
+![Alt text](/Users/joaobecker/Desktop/Data\ Science\ -\ Springboard/Deep\ Learning/Image\ Github/Screenshot\ of\ Brave\ Browser\ \(2019-03-15\,\ 9-52-13\ AM\).png)
+
+
 ## Next steps
 
 I would like to use this algorithm to further create an app to find your dream furniture & home goods. In this app you would only need to input a picture of your dream furniture and the app would use the algorithm created in this project to recognize which category it falls into and then would use clustering to find you similar products.
