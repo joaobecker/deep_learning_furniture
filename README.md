@@ -21,8 +21,10 @@ The project will be using the data available from the Kaggle competition - [iMat
 
 By leveraging transfer learning from VGG-16 model as feature extractor to our model, we achieved an impressive result of 93.6% accuracy and 85% validation accuracy, even though we only had a total of 3’699 images available in our dataset. Thus, helping online stores automate product recognition with high accuracy and making them more efficient. 
 
-![Alt text](/Users/joaobecker/Desktop/Data\ Science\ -\ Springboard/Deep\ Learning/Image\ Github/Screenshot\ of\ Brave\ Browser\ \(2019-03-15\,\ 9-52-13\ AM\).png)
 
+
+
+![Screenshot of Brave Browser (2019-03-15, 10-12-34 AM)](https://user-images.githubusercontent.com/31840058/54449265-ecd2e500-470a-11e9-858a-b4f6cbec7d6c.png)
 
 ## Next steps
 
