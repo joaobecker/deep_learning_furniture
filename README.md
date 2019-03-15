@@ -22,14 +22,16 @@ The project will be using the data available from the Kaggle competition - [iMat
 By leveraging transfer learning from VGG-16 model as feature extractor to our model, we achieved an impressive result of 93.6% accuracy and 85% validation accuracy, even though we only had a total of 3’699 images available in our dataset. Thus, helping online stores automate product recognition with high accuracy and making them more efficient. 
 
 
-
+![Screenshot of Brave Browser (2019-03-15, 9-52-13 AM)](https://user-images.githubusercontent.com/31840058/54448873-00ca1700-470a-11e9-9b38-898ed2172f7e.png)
 
 ![Screenshot of Brave Browser (2019-03-15, 10-12-34 AM)](https://user-images.githubusercontent.com/31840058/54449265-ecd2e500-470a-11e9-858a-b4f6cbec7d6c.png)
 
 ## Next steps
 
-I would like to use this algorithm to further create an app to find your dream furniture & home goods. In this app you would only need to input a picture of your dream furniture and the app would use the algorithm created in this project to recognize which category it falls into and then would use clustering to find you similar products.
-What is needed? API from a large furniture and home goods store and create a clustering algorithm
+I would like to use this algorithm to create an app to find your dream furniture & home goods, for cheaper!
+
+The app would only need an input of a single picture of your dream furniture, then it would use the algorithm created in this project to recognize which category it falls into and use a clustering algorithm to find cheaper, similar products.
 
 If you are interested in helping me out with this project, let me know! :D
+
 
